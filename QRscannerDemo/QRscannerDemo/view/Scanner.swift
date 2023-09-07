@@ -29,7 +29,7 @@ struct ScannerView: View {
                 
             }
             .frame(maxWidth: .infinity,alignment: .leading)
-            Text("Please the OQ code inside the area")
+            Text("Please the QR code inside the area")
                 .font(.title3)
                 .foregroundColor(.black.opacity(0.8))
                 .padding(.top,20)
